@@ -23,11 +23,31 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.count {
+  color: #ff1c68;
+  font-size: 11em;
+}
+
+.count-container {
+  position: absolute;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #ff1c68;
+  margin: 0 20px;
+  padding: 20px;
+}
+
+.address {
+  color: #ff1c68;
+  font-size: 2.5em;
+}
+
+.code {
+  color: #ff1c68;
+  font-size: 2.5em;
 }
