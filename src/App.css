@@ -30,6 +30,8 @@
 
 .count-container {
   position: absolute;
+  top: 25%;
+  left: 50%;
 }
 
 .message {
@@ -50,4 +52,10 @@
 .code {
   color: #ff1c68;
   font-size: 2.5em;
+}
+
+.button {
+  color: #ff1c68;
+  font-size: 7em;
+  position: absolute;
 }
