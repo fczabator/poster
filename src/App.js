@@ -66,7 +66,7 @@ function App() {
             <span className="address">
               Wszystkiego najlepszego
             </span>
-            <span className="code">Przyjacielu! (ch.c.n.k.)</span>
+            <span className="code">Przyjacielu! ch.c.n.k. ;)</span>
           </div>
         )}
 
