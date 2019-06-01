@@ -64,9 +64,9 @@ function App() {
         {show && (
           <div className="message">
             <span className="address">
-              Wszystkiego najlepszego
+              Strzegomska 202/313
             </span>
-            <span className="code">Przyjacielu! ch.c.n.k. ;)</span>
+            <span className="code">kluczyk + 4967</span>
           </div>
         )}
 
